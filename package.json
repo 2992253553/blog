@@ -9,8 +9,8 @@
     "draft": "hexo new draft \"Title\"",
     "clean": "hexo clean",
     "start": "hexo clean & hexo server -l -p 4000",
-    "build": "hexo clean & hexo generate",
-    "deploy": "bash deploy.sh"
+    "build": "hexo clean && hexo generate --config _config.yml,_config.cloudflare.yml",
+    "deploy": "npm run build && npx wrangler deploy"
   },
   "dependencies": {
     "hexo": "^6.1.0",
