@@ -28,8 +28,8 @@
 
 > 💧 [Blog](https://github.com/dunwu/blog/) 是一个十年 Java 程序员的博客。
 >
-> - 🔁 项目同步维护：[Github](https://github.com/dunwu/blog/) | [Gitee](https://gitee.com/turnon/blog/)
-> - 📖 电子书阅读：[Github Pages](https://dunwu.github.io/blog/) | [Gitee Pages](https://turnon.gitee.io/blog/)
+> - 🔁 项目同步维护：[Github](https://github.com/2992253553/blog/) | [Gitee](https://gitee.com/Privat5418/blog/)
+> - 📖 电子书阅读：[Github Pages](https://Privat5418.github.io/blog/) | [Gitee Pages](https://Privat5418.gitee.io/blog/)
 
 ## Java
 
@@ -708,4 +708,4 @@
 
 ## 🚪 传送
 
-◾ 💧 [钝悟的 IT 知识图谱](https://dunwu.github.io/waterdrop/) ◾ 🎯 [钝悟的博客](https://dunwu.github.io/blog/) ◾
+◾ 💧 [钝悟的 IT 知识图谱](https://dunwu.github.io/waterdrop/) ◾ 🎯 [钝悟的博客](https://xireiki.de5.net/) ◾
