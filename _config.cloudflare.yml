@@ -1,0 +1,20 @@
+# Cloudflare Pages 专用配置
+# 覆盖默认配置
+
+# URL
+url: https://xireiki.de5.net/  # 替换为你的 Cloudflare Pages 域名
+root: /
+
+# 部署设置
+deploy:
+  type: git
+  repo: 
+  branch: main
+  message: "Deploy to Cloudflare Pages"
+
+# 资源路径设置
+cdn:
+  enable: false  # 如果使用 CDN，设为 true 并配置下面的 CDN 地址
+
+# 静态资源前缀（如果需要在子目录下）
+static_prefix: /
