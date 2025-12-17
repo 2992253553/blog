@@ -26,10 +26,10 @@
 
 <h1 align="center">blog</h1>
 
-> 💧 [Blog](https://github.com/2992253553/blog/) 是一个十年 Java 程序员的博客。
+> 💧 [Blog](https://github.com/2992253553/Blog/) 是一个十年 Java 程序员的博客。
 >
-> - 🔁 项目同步维护：[Github](https://github.com/2992253553/blog/) | [Gitee](https://gitee.com/Privat5418/blog/)
-> - 📖 电子书阅读：[Github Pages](https://Privat5418.github.io/blog/) | [Gitee Pages](https://Privat5418.gitee.io/blog/)
+> - 🔁 项目同步维护：[Github](https://github.com/2992253553/Blog/) | [Gitee](https://gitee.com/Privat5418/blog/)
+> - 📖 电子书阅读：[Github Pages](https://Privat5418.github.io/Blog/) | [Gitee Pages](https://Privat5418.gitee.io/blog/)
 
 ## Java
 
